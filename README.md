@@ -25,6 +25,6 @@ Criação de novo anúncio
 Listagem de anúncios por game
 Buscar discrod pelo ID do anúncio
 
-##Rodar o projeto
+## Rodar o projeto
 Para rodar o projeto basta clonar esse repositorio, baixar as dependências usando "npm install".
 Para executar rode: npm run dev
